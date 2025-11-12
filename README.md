@@ -1,3 +1,3 @@
-# teGATElx
+# teGATE
 Repo
 1
